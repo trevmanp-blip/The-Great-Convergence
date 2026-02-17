@@ -1,0 +1,3 @@
+You can interact with one object or feature of the environment for free, during either your move or action. For example, you could open a door during your move as you stride toward a foe. 
+	If you want to interact with a second object, you need to take the Utilize action. Some magic items and other special objects always require an action to use, as stated in their descriptions. 
+	The DM might require you to use an action for any of these activities when it needs special care or when it presents an unusual obstacle. For instance, the DM might require you to take the Utilize action to open a stuck door or turn a crank to lower a drawbridge.

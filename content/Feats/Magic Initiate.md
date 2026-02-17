@@ -1,0 +1,2 @@
+You gain the following benefits. 
+	Two Cantrips. You learn two cantrips of your choice from the Cleric, Druid, or Wizard spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for the is feat's spells (choose when you select this feat). 

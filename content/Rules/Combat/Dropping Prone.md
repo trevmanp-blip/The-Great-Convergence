@@ -1,0 +1,1 @@
+On your turn, you can give yourself the Prone condition (see the rules glossary) without using an action or any of your Speed, but you can't do so if your Speed is 0.

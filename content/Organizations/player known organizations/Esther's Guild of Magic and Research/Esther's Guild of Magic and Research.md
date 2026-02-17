@@ -1,0 +1,1 @@
+Teach and work with students of the arcane to develop their abilities for different areas. Some higher officials work within a subsect of magical research with Fey and Shadowfell as the common ones.
