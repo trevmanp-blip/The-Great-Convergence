@@ -1,0 +1,2 @@
+You can communicate however you are able-through brief utterances and gestures-as you take your turn. Doing so uses neither your action nor your move.
+	Extended communication, such as a detailed explanation of something or an attempt to persuade a foe, requires an action. The Influence action is the main way you try to influence a monster.
